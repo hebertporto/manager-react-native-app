@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\HeberT\Documents\Projetos\native-react\manager\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Users\HeberT\Documents\Projetos\native-react\manager\android\app\build\intermediates\pre-dexed\debug\classes-8e26ed3c3b029eff772b73352794509b019e979d.jar" />
+    </item>
+    <item
+        jar="C:\Users\HeberT\Documents\Projetos\native-react\manager\android\app\build\intermediates\exploded-aar\com.facebook.fbui.textlayoutbuilder\textlayoutbuilder\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="C:\Users\HeberT\Documents\Projetos\native-react\manager\android\app\build\intermediates\pre-dexed\debug\classes-815c2bf9a116189ff86f5feb7827cce4de3b5ea3.jar" />
+    </item>
+    <item
+        jar="C:\Users\HeberT\Documents\Projetos\native-react\manager\android\app\build\intermediates\exploded-aar\com.facebook.fresco\drawee\0.11.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1137942adeb03984c1311b662363dd38fc238fd3">
+        <dex dex="C:\Users\HeberT\Documents\Projetos\native-react\manager\android\app\build\intermediates\pre-dexed\debug\classes-f069e52fbccfe3558132000f01c86bac902c9dfc.jar" />
+    </item>
+    <item
+        jar="C:\Users\HeberT\Documents\Projetos\native-react\manager\android\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="C:\Users\HeberT\Documents\Projetos\native-react\manager\android\app\build\intermediates\pre-dexed\debug\classes-c8054f7d2d7ffe7c3d1713f7fac1439ca0425b96.jar" />
+    </item>
+    <item
+        jar="C:\Users\HeberT\Documents\Projetos\native-react\manager\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fresco\0.11.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d31aadf33187c37a7cd63dc1b769f8c6e33f78c3">
+        <dex dex="C:\Users\HeberT\Documents\Projetos\native-react\manager\android\app\build\intermediates\pre-dexed\debug\classes-83c7107d578df096c7a5422d081c0ae940f54c03.jar" />
+    </item>
+    <item
+        jar="C:\Users\HeberT\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.4.1\c7c4f9e35c2fd5900da24f9872e3971801f08ce0\okhttp-3.4.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="C:\Users\HeberT\Documents\Projetos\native-react\manager\android\app\build\intermediates\pre-dexed\debug\okhttp-3.4.1-02fa84d84b4e95504a04076b6a53f08274602e8a.jar" />
+    </item>
+    <item
+        jar="C:\Users\HeberT\Documents\Projetos\native-react\manager\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Users\HeberT\Documents\Projetos\native-react\manager\android\app\build\intermediates\pre-dexed\debug\internal_impl-23.4.0-b816180a0be53d1ab9c07b48e79540f9fc1298e4.jar" />
+    </item>
+    <item
+        jar="C:\Users\HeberT\Documents\Projetos\native-react\manager\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.41.2\jars\libs\infer-annotations-1.5.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="dcac634e137395f79693ec760f081a86eb2bd84e">
+        <dex dex="C:\Users\HeberT\Documents\Projetos\native-react\manager\android\app\build\intermediates\pre-dexed\debug\infer-annotations-1.5-84cfb4e1ecea2001fde792ded8fdedf32cbd57fd.jar" />
+    </item>
+    <item
+        jar="C:\Users\HeberT\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="C:\Users\HeberT\Documents\Projetos\native-react\manager\android\app\build\intermediates\pre-dexed\debug\bolts-tasks-1.4.0-48580807ee34698e1e53102fd4db7bafb88dfada.jar" />
+    </item>
+    <item
+        jar="C:\Users\HeberT\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp-urlconnection\3.4.1\63994437f62bc861bc20c605d12962f7246116d1\okhttp-urlconnection-3.4.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="63994437f62bc861bc20c605d12962f7246116d1">
+        <dex dex="C:\Users\HeberT\Documents\Projetos\native-react\manager\android\app\build\intermediates\pre-dexed\debug\okhttp-urlconnection-3.4.1-e519fa31c8e249c965f6686e4c769038d79b11e7.jar" />
+    </item>
+    <item
+        jar="C:\Users\HeberT\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\Users\HeberT\Documents\Projetos\native-react\manager\android\app\build\intermediates\pre-dexed\debug\support-annotations-23.4.0-a8ce0f16d2475e822685b2049a125266637ad9b1.jar" />
+    </item>
+    <item
+        jar="C:\Users\HeberT\Documents\Projetos\native-react\manager\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-base\0.11.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ca63c521b5745ae9a09629d7ca67ff6bc2a967fe">
+        <dex dex="C:\Users\HeberT\Documents\Projetos\native-react\manager\android\app\build\intermediates\pre-dexed\debug\classes-cdda2024664fdb24f29e3cf3b1ea273a84912c87.jar" />
+    </item>
+    <item
+        jar="C:\Users\HeberT\Documents\Projetos\native-react\manager\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-okhttp3\0.11.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2b8a01ad9da5d26d0067894c22e87597bca2c500">
+        <dex dex="C:\Users\HeberT\Documents\Projetos\native-react\manager\android\app\build\intermediates\pre-dexed\debug\classes-3a66cdc78a8ed16f9404442630c09567eb15ffb0.jar" />
+    </item>
+    <item
+        jar="C:\Users\HeberT\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\3.0.0\5871fb60dc68d67da54a663c3fd636a10a532948\jsr305-3.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="C:\Users\HeberT\Documents\Projetos\native-react\manager\android\app\build\intermediates\pre-dexed\debug\jsr305-3.0.0-5e772d37bcdf377252fed121a3cedb9ef317203c.jar" />
+    </item>
+    <item
+        jar="C:\Users\HeberT\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="C:\Users\HeberT\Documents\Projetos\native-react\manager\android\app\build\intermediates\pre-dexed\debug\library-2.4.0-d61be15d90709ac32d355fbcf41ca06f587fe7b1.jar" />
+    </item>
+    <item
+        jar="C:\Users\HeberT\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp-ws\3.4.1\8ace66ef7002d98f633377c9e67daeeb196d8c3b\okhttp-ws-3.4.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8ace66ef7002d98f633377c9e67daeeb196d8c3b">
+        <dex dex="C:\Users\HeberT\Documents\Projetos\native-react\manager\android\app\build\intermediates\pre-dexed\debug\okhttp-ws-3.4.1-0d4e91e94f6900de7ca99aa82262ddbf5525130f.jar" />
+    </item>
+    <item
+        jar="C:\Users\HeberT\.gradle\caches\modules-2\files-2.1\javax.inject\javax.inject\1\6975da39a7040257bd51d21a231b76c915872d38\javax.inject-1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="C:\Users\HeberT\Documents\Projetos\native-react\manager\android\app\build\intermediates\pre-dexed\debug\javax.inject-1-8dd76951e794a948f4f4142c84ed0de9fc4a972f.jar" />
+    </item>
+    <item
+        jar="C:\Users\HeberT\Documents\Projetos\native-react\manager\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fbcore\0.11.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="98786c1770b531b9194fb6448b2a2692c64074b6">
+        <dex dex="C:\Users\HeberT\Documents\Projetos\native-react\manager\android\app\build\intermediates\pre-dexed\debug\classes-26971d24834293d853693e334aa1015dfde3fb35.jar" />
+    </item>
+    <item
+        jar="C:\Users\HeberT\Documents\Projetos\native-react\manager\android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="C:\Users\HeberT\Documents\Projetos\native-react\manager\android\app\build\intermediates\pre-dexed\debug\classes-e248ffc2af5954287999f3264989e65fa278e975.jar" />
+    </item>
+    <item
+        jar="C:\Users\HeberT\Documents\Projetos\native-react\manager\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.41.2\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="b49a04a3016689b372ecbb77f0c33e486e768cca">
+        <dex dex="C:\Users\HeberT\Documents\Projetos\native-react\manager\android\app\build\intermediates\pre-dexed\debug\classes-a6df4360049d1f24fa7308ab497b1ff6f24085c5.jar" />
+    </item>
+    <item
+        jar="C:\Users\HeberT\.gradle\caches\modules-2\files-2.1\com.facebook.fbui.textlayoutbuilder\staticlayout-proxy\1.0\f162442a19fff13995fbd51ba414d9ee05579080\staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="C:\Users\HeberT\Documents\Projetos\native-react\manager\android\app\build\intermediates\pre-dexed\debug\staticlayout-proxy-1.0-0c4a945e026c6d333a33c63de06f42d88558f24e.jar" />
+    </item>
+    <item
+        jar="C:\Users\HeberT\Documents\Projetos\native-react\manager\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline\0.11.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3341b66c54367e777a0647e2db96c045329bfeab">
+        <dex dex="C:\Users\HeberT\Documents\Projetos\native-react\manager\android\app\build\intermediates\pre-dexed\debug\classes-53284d54381d39b966c98eaa416cf9d121931e22.jar" />
+    </item>
+    <item
+        jar="C:\Users\HeberT\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.9.0\f824591a0016efbaeddb8300bee54832a1398cfa\okio-1.9.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="C:\Users\HeberT\Documents\Projetos\native-react\manager\android\app\build\intermediates\pre-dexed\debug\okio-1.9.0-edc4ac7acea7888d60d96ed12acd5fb8654abaf3.jar" />
+    </item>
+    <item
+        jar="C:\Users\HeberT\Documents\Projetos\native-react\manager\android\app\build\intermediates\exploded-aar\com.facebook.soloader\soloader\0.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="C:\Users\HeberT\Documents\Projetos\native-react\manager\android\app\build\intermediates\pre-dexed\debug\classes-a796127ae32ed0442e2178d590946f14f719cce8.jar" />
+    </item>
+
+</items>
